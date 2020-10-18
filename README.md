@@ -37,22 +37,22 @@
 <br />
 <p align="center">
   <a href="https://github.com/DubHacks-Co2020/chrome-extension-playground">
-    <img src="https://i.ibb.co/gyynX0B/new.png" alt="Logo" width="300" height="auto">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">DeCarbonize</h3>
+  <h3 align="center">Co2020</h3>
 
   <p align="center">
-    Decarbonizing online shopping, one purchase at a time.
+    Calculating your carbon footprint one purchase at a time
     <br />
-    <a href="https://github.com/DeCarbonize/chrome-extension/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DeCarbonize/chrome-extension">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/DeCarbonize/chrome-extension/issues">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DeCarbonize/chrome-extension/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </p>
 
@@ -78,19 +78,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
-
+<img src="https://i.ibb.co/xHNzT8L/image-1.png" alt="chrome extension" width="350px" border="0">
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* HTML
+* CSS
+* JavaScript
+* FontAwesome Icons
 
 
 <!-- GETTING STARTED -->
@@ -108,14 +103,14 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Clone the repo
-```sh
-git clone https://github.com/github_username/repo_name.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
+1. Download the repo
+2. Open the Extension Management page by navigating to chrome://extensions.
+   - The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
+3. Enable `Developer Mode` by clicking the toggle switch next to Developer mode.
+4. Click the LOAD UNPACKED button and select the extension directory.
+
+In the end, you should see this:
+> <img src="https://i.ibb.co/rFLD42F/Screen-Shot-2020-10-18-at-10-26-07-AM.png" width="350px" />
 
 
 
