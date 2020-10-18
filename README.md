@@ -23,13 +23,14 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 
 
@@ -64,14 +65,11 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -131,20 +129,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Helen Gezahegn - [@LinkedIn](https://www.linkedin.com/in/helengezahegn/) - gezahegn@ualberta.ca
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
+Helen Gezahegn - [![LinkedIn][linkedin-shield]][linkedin-url] - gezahegn@ualberta.ca
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/helengezahegn/
+<!--[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
 [contributors-url]: https://github.com/DeCarbonize/chrome-extension/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
 [forks-url]: https://github.com/DeCarbonize/chrome-extension/network/members
@@ -154,6 +146,6 @@ Helen Gezahegn - [@LinkedIn](https://www.linkedin.com/in/helengezahegn/) - gezah
 [issues-url]: https://github.com/DeCarbonize/chrome-extension/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
 [license-url]: https://github.com/DeCarbonize/chrome-extension/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/helengezahegn/
+
 [product-screenshot]: images/screenshot.png
+-->
