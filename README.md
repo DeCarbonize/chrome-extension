@@ -75,8 +75,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 <img src="https://i.ibb.co/xHNzT8L/image-1.png" alt="chrome extension" width="350px" border="0">
+
+Most people are unaware of how their purchasing behaviors affect the environment. With the rise of online shopping during COVID, we want to help you make better consumer decisions that are mindful of the carbon footprint the products you order create. 
+
+DeCarbonize is a chrome extension that estimates the carbon footprint of each Amazon product you visit. It contains a built-in dashboard that allows users to track their purchasing habits and carbon footprint over time, providing an opportunity for users to reflect on their consumer behavior and its impact on the environment.
 
 ### Built With
 
