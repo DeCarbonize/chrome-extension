@@ -1,4 +1,4 @@
-# Chrome Extension
+# DeCarbonize (Chrome Extension)
 
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
