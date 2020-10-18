@@ -87,21 +87,10 @@
 * JavaScript
 * FontAwesome Icons
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
+### Setup
 
 1. Download the repo
 2. Open the Extension Management page by navigating to chrome://extensions.
@@ -112,23 +101,14 @@ npm install npm@latest -g
 In the end, you should see this:
 > <img src="https://i.ibb.co/rFLD42F/Screen-Shot-2020-10-18-at-10-26-07-AM.png" width="350px" />
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+The chrome extension automatically detects if you're viewing an Amazon product, and will display the estimated carbon footprint below the price. To see a demo of it, you can watch this video here!
 
 
 <!-- ROADMAP -->
 ## Roadmap
-
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -149,15 +129,10 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
+Helen Gezahegn - [@LinkedIn](https://www.linkedin.com/in/helengezahegn/) - gezahegn@ualberta.ca
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -167,13 +142,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+[contributors-url]: https://github.com/DeCarbonize/chrome-extension/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
 [forks-url]: https://github.com/github_username/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
