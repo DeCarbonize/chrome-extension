@@ -37,22 +37,22 @@
 <br />
 <p align="center">
   <a href="https://github.com/DubHacks-Co2020/chrome-extension-playground">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/gyynX0B/new.png" alt="Logo" width="300" height="auto">
   </a>
 
-  <h3 align="center">Co2020</h3>
+  <h3 align="center">DeCarbonize</h3>
 
   <p align="center">
-    Calculating your carbon footprint one purchase at a time
+    Decarbonizing online shopping, one purchase at a time.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DeCarbonize/chrome-extension/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/DeCarbonize/chrome-extension">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/DeCarbonize/chrome-extension/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/DeCarbonize/chrome-extension/issues">Request Feature</a>
   </p>
 </p>
 
