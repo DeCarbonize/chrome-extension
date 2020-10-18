@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "DeCarbonze",
+  "description": "Decarbonizing online shopping, one purchase at a time.",
+  "version": "1.0.0",
+  "icons": { "128": "assets/logo/logo_128.png" },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.ca/*",
+        "https://www.amazon.com/*",
+        "https://www.ebay.ca/*",
+        "https://www.ebay.com/*"
+      ],
+      "js": ["src/content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "assets/logo/logo.png",
+    "default_popup": "src/popup.html"
+  },
+  "permissions": ["tabs", "activeTab"]
+}
