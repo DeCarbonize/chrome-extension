@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Co2020",
-  "description": "Your automatic carbon footprint calculator.",
+  "name": "DeCarbonze",
+  "description": "Decarbonizing online shopping, one purchase at a time.",
   "version": "1.0.0",
   "icons": { "128": "assets/logo/logo_128.png" },
   "content_scripts": [
@@ -15,5 +15,9 @@
       "js": ["src/content.js"]
     }
   ],
-  "permissions": ["tabs", "tabCapture", "activeTab"]
+  "browser_action": {
+    "default_icon": "assets/logo/logo.png",
+    "default_popup": "src/popup.html"
+  },
+  "permissions": ["tabs", "activeTab"]
 }
